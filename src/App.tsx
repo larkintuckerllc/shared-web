@@ -1,11 +1,15 @@
 /* eslint-disable no-console */
 import React from 'react';
-import sharedShared from 'shared-shared';
+import hello, { random } from 'larkintuckerllc-example/dist/hello';
+import there from 'larkintuckerllc-example/dist/there';
 import logo from './logo.svg';
 import './App.css';
 
 const App: React.FC = () => {
-  console.log(sharedShared);
+  console.log(hello);
+  console.log(there);
+  const randomString = random();
+  console.log(randomString);
   return (
     <div className="App">
       <header className="App-header">
