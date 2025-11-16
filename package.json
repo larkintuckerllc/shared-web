@@ -10,7 +10,7 @@
     "larkintuckerllc-example": "https://github.com/larkintuckerllc/larkintuckerllc-example/archive/1.0.3.tar.gz",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-scripts": "3.2.0",
+    "react-scripts": "5.0.1",
     "typescript": "3.7.2"
   },
   "scripts": {
@@ -38,7 +38,7 @@
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^2.9.0",
     "@typescript-eslint/parser": "^2.9.0",
-    "eslint": "^6.1.0",
+    "eslint": "^9.39.1",
     "eslint-config-airbnb": "^18.0.1",
     "eslint-config-prettier": "^6.7.0",
     "eslint-plugin-import": "^2.18.2",
